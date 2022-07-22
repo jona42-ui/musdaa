@@ -1,0 +1,35 @@
+{
+  "name": "musdaa",
+  "version": "1.0.0",
+  "description": "MUSDAA company plartform that has the main priority of adavncing the gospel to communities around and the entire globe",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "sass --watch scss:assets/css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jona42-ui/musdaa.git"
+  },
+  "keywords": [
+    "musdaa",
+    "youths",
+    "makerere",
+    "university",
+    "company",
+    "limited"
+  ],
+  "author": "thembo jonathan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jona42-ui/musdaa/issues"
+  },
+  "homepage": "https://github.com/jona42-ui/musdaa#readme",
+  "devDependencies": {
+    "sass": "^1.53.0"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.1.1",
+    "autoprefixer": "^10.4.7",
+    "bootstrap": "^5.2.0"
+  }
+}
